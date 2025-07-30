@@ -1,4 +1,4 @@
-## Appendix A: Keywords
+## Appendice A : Mots Clefs
 
 The following list contains keywords that are reserved for current or future
 use by the Rust language. As such, they cannot be used as identifiers (except
