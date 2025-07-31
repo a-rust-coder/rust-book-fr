@@ -143,6 +143,6 @@ l'édition 2015 mais l'est dans les éditions 2018, 2021 et 2024. Si vous dépen
 d'une librairie écrite en utilisant l'édition 2015 et qui a une fonction `try`,
 vous devrez utiliser la syntaxe d'identificateurs bruts, `r#try` dans ce cas, pour
 appeler cette fonction depuis votre code utilisant une édition ultérieure. Voir
-l'[Appendice E][appendeix-e]<!-- ignore --> pour plus d'informations sur les éditions.
+l'[Appendice E][appendix-e]<!-- ignore --> pour plus d'informations sur les éditions.
 
 [appendix-e]: appendix-05-editions.html
